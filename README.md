@@ -12,8 +12,8 @@
 ### Connect with me:
 
 <p align="left">
- <a href="www.linkedin.com/in/deepakkandpal0123" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:10px"></a>
- <a href="mailto:deepakkandpal0123@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:10px"></a>
+ <a href="www.linkedin.com/in/deepakkandpal0123" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:100px"></a>
+ <a href="mailto:deepakkandpal0123@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:100px"></a>
 </p>
 
 <br />
