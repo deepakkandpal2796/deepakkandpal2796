@@ -29,5 +29,6 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AVisual_Studio_Code_1.35_icon.svg&psig=AOvVaw2jOYQWK8ZWg5FvANz1qZMH&ust=1597117775423000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCqtb_dj-sCFQAAAAAdAAAAABAD"></code>
 
 
