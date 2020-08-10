@@ -13,9 +13,9 @@
 
 <p align="left">
  
- <a href="https://www.linkedin.com/in/deepakkandpal0123/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:100px"></a>
+ <a href="https://www.linkedin.com/in/deepakkandpal0123/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:10px"></a>
  
- <a href="mailto:deepakkandpal0123@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:100px"></a>
+ <a href="mailto:deepakkandpal0123@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:10px"></a>
 </p>
 
 <br />
