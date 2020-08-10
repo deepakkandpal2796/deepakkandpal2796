@@ -2,10 +2,10 @@
 
 ## I am a Web Developer and freelancer.
 
-- 🔭 I’m currently working on ... my portfolio website.
-- 🌱 I’m currently learning ... javascript framework.
-- 👯 I’m looking to collaborate on ... javascript and react.js.
-- 🤔 I’m looking for help with ... Backend.
+- 🔭 I’m currently working on ... my Portfolio website.
+- 🌱 I’m currently learning ... javascript frameworks.
+- 👯 I’m looking to collaborate on ... javascript and react.js Projects.
+- 🤔 I’m looking for help with ... Backend-Development.
 - ⚡ Fun fact: ... I love to Write and Travel.
 
 ## Connect with me:
