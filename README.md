@@ -12,7 +12,7 @@
 -->
 ### Connect with me:
 
-[<img align="left" alt="Deepak kandpal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style = align="left" alt="Deepak kandpal | LinkedIn" width="22px" />][linkedin]
 [<img align="left" alt="Deepak kandpal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
