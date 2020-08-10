@@ -34,6 +34,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code"></code>
 <code><img height="50" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="intellij-idea"></code>
 <code><img height="50" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="pycharm"></code>
+<code><img height="50" src="https://img.icons8.com/windows/32/000000/figma.png" alt="figma"></code>
 
 <br />
 <br />
