@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 here is what i am working on!
 
-<!--
-**deepakkandpal2796/deepakkandpal2796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Web Developer and freelancer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ... my portfolio website.
+- 🌱 I’m currently learning ... javascript framework.
+- 👯 I’m looking to collaborate on ... javascript and react.js.
+- 🤔 I’m looking for help with ... Backend.
+- 📫 How to reach me: ... [LinkedIn] (www.linkedin.com/in/deepakkandpal0123), [E-mail Me on deepakkandpal0123@gmail.com].
+- ⚡ Fun fact: ... I love to Write and Travel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+### Connect with me:
+
+[<img align="left" alt= "LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
