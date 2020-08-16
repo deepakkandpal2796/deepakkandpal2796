@@ -10,10 +10,10 @@
 
 ## Connect with me:
                                                                                                                                            
-<a href="https://www.linkedin.com/in/deepakkandpal0123/">
+<a href="https://www.linkedin.com/in/deepakkandpal0123/" target="_blank">
   <img align="left" alt="Deepak kandpal's LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto: deepakkandpal2796@gmail.com">
+<a href="mailto: deepakkandpal2796@gmail.com" target="_blank">
   <img align="left" alt="Deepak kandpal's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
                                                                                                                                  
