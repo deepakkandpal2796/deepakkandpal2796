@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... javascript frameworks.
 - 👯 I’m looking to collaborate on ... javascript and react.js Projects.
 - 🤔 I’m looking for help with ... Backend-Development.
-- ⚡ Fun fact: ... I love to Write and Travel.
+- ⚡ Fun fact: ... I love to Write, Making videos and Travel.
 
 ## Connect with me:
                                                                                                                                            
