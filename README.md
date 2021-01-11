@@ -2,7 +2,7 @@
 
 ## I am a Web Developer and freelancer.
 
-- 🔭 I’m currently working as an freelancer.
+- 🔭 I’m currently working as a freelancer.
 - 🌱 I’m currently learning ... javascript frameworks.
 - 👯 I’m looking to collaborate on ... javascript and react.js Projects.
 - 🤔 I’m looking for help with ... Backend-Development.
