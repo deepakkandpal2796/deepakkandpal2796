@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Deepak Kandpal.
 
-## I am a Web Developer and freelancer.
+## I am a Web Developer and Designer.
 
 - 🔭 I’m currently working as a freelancer.
 - 🌱 I’m currently learning ... javascript frameworks.
